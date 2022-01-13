@@ -33,7 +33,11 @@ The following tools and libraries are preinstalled for you:
 
 ### Image Detailed View
 
-- When a user clicks on an image, they should be taken to a detail view for that image which includes extended information such as `width`, `height`, `url` and `download_url`
+- When a user clicks on an image, they should be taken to a detail view for that image which includes a larger version of thie image and extended information such as `width`, `height`, `url` and `download_url`
+
+### Testing
+
+Bonus points for adding relevant tests
 
 ## Available Scripts
 
